@@ -1,0 +1,39 @@
+<div class="main f_r">
+	<div class="uc_title m_10">
+		<label class="current"><span>好友邀请</span></label>
+	</div>
+	<div class="form_content">
+		<div class="uc_title2 m_10"><span class="f_r">带<b class="red">*</b>号的项目为必须填</span><strong>邮箱邀请</strong></div>
+		<form action="">
+			<table>
+				<tr>
+				<th>好友邮箱</th>
+				<td><input type="text"  name="email" id="email"></td>
+				<label for="">好友邮箱</label>
+				</tr>
+				<tr>
+					<th></th>
+					<td>
+						<label class="btn1"><input type="button" id="btn1" value="发送"></label>
+						<label class="btn"><input type="reset" id="bu1" value="取消"></label>
+					</td>
+				</tr>
+				
+			</table>
+
+
+		</form>
+	</div>
+</div>
+<script>
+	$(function(){
+		$('#btn1').on('click',function(){
+			$url='{url:/ucenter/inviteMail}';
+			$email=$('#email').val();
+			$.getJSON($url,{'email':$email},function(msg){
+				alert(msg.message);
+			})
+		})
+	})
+</script>
+

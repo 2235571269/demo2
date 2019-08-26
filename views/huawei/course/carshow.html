@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<center>
+		<h2>购物车展示页面</h2>
+		<table>
+			<tr>
+				<th></th>
+				<th>所选课程</th>
+				<th>课程描述</th>
+				<th>单价</th>
+				<th>支付</th>
+			</tr>
+			{foreach:items=$this->data key=$k item=$v}
+			<tr>
+			<td><input type="checkbox"></td>
+			<td>{$v['name']}</td>
+			<td>{$v['desc']}</td>
+			<td>{$v['price']}</td>
+			<td><a href="{url:/course/Purchase}&course_id={$v['course_id']}"><button>去支付</button></a></td>
+			</tr>
+			{/foreach}
+		</table>
+	</center>
+</body>
+</html>

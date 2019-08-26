@@ -1,0 +1,171 @@
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:21:45
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:16
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:18
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:21
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:23
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:24
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:27
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=): failed to open stream: HTTP request failed! 
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 16
+errorCode: 2
+errorTime: 2019-08-10 11:22:36
+#0 IWEB_PATH/classes/city.php(16): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=)
+#1 IWEB_PATH/controllers/site.php(31): City::getAdd()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:36
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:50
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:51
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:52
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-10 11:22:53
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Site->index()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

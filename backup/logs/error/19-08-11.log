@@ -1,0 +1,147 @@
+<ERROR_BLOCK>
+errorInfo: Undefined index: email
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 356
+errorCode: 8
+errorTime: 2019-08-11 21:15:23
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(342): _userInfo::getUser()
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->initUser(login_act)
+#2 IWEB_PATH/classes/plugin.php(223): plugin::trigger(onBeforeCreateAction,login_act)
+#3 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onBeforeCreateAction(login_act)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(114): IInterceptor::trigger(onBeforeCreateAction,login_act)
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: email
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 356
+errorCode: 8
+errorTime: 2019-08-11 21:15:23
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(342): _userInfo::getUser()
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->initUser(showCart)
+#2 IWEB_PATH/classes/plugin.php(223): plugin::trigger(onBeforeCreateAction,showCart)
+#3 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onBeforeCreateAction(showCart)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(114): IInterceptor::trigger(onBeforeCreateAction,showCart)
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(showCart)
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: email
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 356
+errorCode: 8
+errorTime: 2019-08-11 21:15:30
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(342): _userInfo::getUser()
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->initUser(login_act)
+#2 IWEB_PATH/classes/plugin.php(223): plugin::trigger(onBeforeCreateAction,login_act)
+#3 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onBeforeCreateAction(login_act)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(114): IInterceptor::trigger(onBeforeCreateAction,login_act)
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: email
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 356
+errorCode: 8
+errorTime: 2019-08-11 21:15:31
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(342): _userInfo::getUser()
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->initUser(showCart)
+#2 IWEB_PATH/classes/plugin.php(223): plugin::trigger(onBeforeCreateAction,showCart)
+#3 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onBeforeCreateAction(showCart)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(114): IInterceptor::trigger(onBeforeCreateAction,showCart)
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(showCart)
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: email
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 356
+errorCode: 8
+errorTime: 2019-08-11 21:17:57
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(342): _userInfo::getUser()
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->initUser(login_act)
+#2 IWEB_PATH/classes/plugin.php(223): plugin::trigger(onBeforeCreateAction,login_act)
+#3 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onBeforeCreateAction(login_act)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(114): IInterceptor::trigger(onBeforeCreateAction,login_act)
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ipone
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 356
+errorCode: 8
+errorTime: 2019-08-11 21:17:57
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(342): _userInfo::getUser()
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->initUser(login_act)
+#2 IWEB_PATH/classes/plugin.php(223): plugin::trigger(onBeforeCreateAction,login_act)
+#3 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onBeforeCreateAction(login_act)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(114): IInterceptor::trigger(onBeforeCreateAction,login_act)
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(id) as num from iwebshop_order  where user_id =  and if_del = 0     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and if_del = 0' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-11 21:17:57
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(id) as num from iwebshop_order  where user_id =  and if_del = 0     )
+#1 IWEB_PATH/classes/api/ucenter.php(100): IQuery->find()
+#2 IWEB_PATH/classes/api.php(98): APIUcenter->getMemberTongJi()
+#3 IWEB_PATH/controllers/ucenter.php(21): Api::run(getMemberTongJi)
+#4 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#5 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#6 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#7 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#8 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed
+errorFile: IWEB_PATH/lib/core/util/phpmailer/class.smtp.php
+errorLine: 343
+errorCode: 2
+errorTime: 2019-08-11 21:31:01
+#0 IWEB_PATH/lib/core/util/phpmailer/class.smtp.php(343): stream_socket_enable_crypto(57)
+#1 IWEB_PATH/lib/core/util/phpmailer/class.phpmailer.php(1442): SMTP->startTLS()
+#2 IWEB_PATH/lib/core/util/phpmailer/class.phpmailer.php(1310): PHPMailer->smtpConnect()
+#3 IWEB_PATH/lib/core/util/phpmailer/class.phpmailer.php(1155): PHPMailer->smtpSend(Date: Sun, 11 Aug 2019 21:30:44 +0800
+To: 21312@qq.com
+From: =?utf-8?B?aVdlYlNob3DlvIDmupDnlLXlrZDllYbliqHlubPlj7A=?= <qq2235571269@126.com>
+Subject: =?utf-8?B?5oKo55qE5a+G56CB5om+5Zue?=
+Message-ID: <81598625fc1b18f9ce5cfc8241984276@localhost>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+,您好，您在iWebShop开源电子商务平台申请找回密码的操作，点击下面这个链接进行密码重置：<a href='http://localhost/iWebShop5.5/index.php?controller=simple&action=restore_password&hash=75079ba59501beb65a8b769351fc9489&user_id=4'>http://localhost/iWebShop5.5/index.php?controller=simple&action=restore_password&hash=75079ba59501beb65a8b769351fc9489&user_id=4</a>。<br />如果不能点击，请您把它复制到地址栏中打开。
+)
+#4 IWEB_PATH/lib/core/util/phpmailer/class.phpmailer.php(1059): PHPMailer->postSend()
+#5 IWEB_PATH/classes/sendmail.php(135): PHPMailer->send()
+#6 IWEB_PATH/controllers/simple.php(801): SendMail->send(21312@qq.com,您的密码找回,您好，您在iWebShop开源电子商务平台申请找回密码的操作，点击下面这个链接进行密码重置：<a href='http://localhost/iWebShop5.5/index.php?controller=simple&action=restore_password&hash=75079ba59501beb65a8b769351fc9489&user_id=4'>http://localhost/iWebShop5.5/index.php?controller=simple&action=restore_password&hash=75079ba59501beb65a8b769351fc9489&user_id=4</a>。<br />如果不能点击，请您把它复制到地址栏中打开。)
+#7 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->find_password_email()
+#8 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#9 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(find_password_email)
+#10 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#11 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

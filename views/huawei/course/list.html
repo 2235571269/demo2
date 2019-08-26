@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		*{list-style: none;}
+		body{
+			width: 1200px;
+			margin:0px auto ;
+		}
+		li{line-height: 30px;height: 30px;margin-left:100px;}
+/*		.ul*/
+	</style>
+</head>
+<body>
+	<h1 class="h1">列表详情</h1>
+	<h3>课程名称:{$this->name}</h3>
+	<h4>{$this->desc}</h4>
+	<ul>
+		{foreach:items=$this->list key=$k item=$v}
+		<li><a href="{url:course/video}&id={$v['id']}">{$v['name']}</a></li>
+		{/foreach}
+	</ul>
+</body>
+</html>

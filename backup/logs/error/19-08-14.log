@@ -1,0 +1,165 @@
+<ERROR_BLOCK>
+excepInfo: INSERT INTO iwebshop_oauth_user ( `oauth_user_id`,`oauth_id`,`user_id`,`datetime` ) VALUES ( '1BA15457C4A2AAB6062A6B65D46DD3BF','2','','2019-08-14 11:06:03' ) 
+ -- Cannot add or update a child row: a foreign key constraint fails (`iwebshop`.`iwebshop_oauth_user`, CONSTRAINT `iwebshop_oauth_user_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `iwebshop_user` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 166
+excepCode: 1000
+excepTime: 2019-08-14 11:06:03
+#0 IWEB_PATH/lib/web/model/model_class.php(145): IDB->query(INSERT INTO iwebshop_oauth_user ( `oauth_user_id`,`oauth_id`,`user_id`,`datetime` ) VALUES ( '1BA15457C4A2AAB6062A6B65D46DD3BF','2','','2019-08-14 11:06:03' ) )
+#1 IWEB_PATH/controllers/simple.php(1279): IModel->add()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->bind_exists_user()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(bind_exists_user)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: INSERT INTO iwebshop_oauth_user ( `oauth_user_id`,`oauth_id`,`user_id`,`datetime` ) VALUES ( '1BA15457C4A2AAB6062A6B65D46DD3BF','2','','2019-08-14 11:06:55' ) 
+ -- Cannot add or update a child row: a foreign key constraint fails (`iwebshop`.`iwebshop_oauth_user`, CONSTRAINT `iwebshop_oauth_user_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `iwebshop_user` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 166
+excepCode: 1000
+excepTime: 2019-08-14 11:06:55
+#0 IWEB_PATH/lib/web/model/model_class.php(145): IDB->query(INSERT INTO iwebshop_oauth_user ( `oauth_user_id`,`oauth_id`,`user_id`,`datetime` ) VALUES ( '1BA15457C4A2AAB6062A6B65D46DD3BF','2','','2019-08-14 11:06:55' ) )
+#1 IWEB_PATH/controllers/simple.php(1279): IModel->add()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->bind_exists_user()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(bind_exists_user)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: INSERT INTO iwebshop_oauth_user ( `oauth_user_id`,`oauth_id`,`user_id`,`datetime` ) VALUES ( '1BA15457C4A2AAB6062A6B65D46DD3BF','2','','2019-08-14 13:52:26' ) 
+ -- Cannot add or update a child row: a foreign key constraint fails (`iwebshop`.`iwebshop_oauth_user`, CONSTRAINT `iwebshop_oauth_user_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `iwebshop_user` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 166
+excepCode: 1000
+excepTime: 2019-08-14 13:52:26
+#0 IWEB_PATH/lib/web/model/model_class.php(145): IDB->query(INSERT INTO iwebshop_oauth_user ( `oauth_user_id`,`oauth_id`,`user_id`,`datetime` ) VALUES ( '1BA15457C4A2AAB6062A6B65D46DD3BF','2','','2019-08-14 13:52:26' ) )
+#1 IWEB_PATH/controllers/simple.php(1279): IModel->add()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->bind_exists_user()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(bind_exists_user)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected '=', expecting ')'
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 294
+excepCode: 0
+excepTime: 2019-08-14 15:06:50
+#0 IWEB_PATH/lib/core/webapplication_class.php(74): IWebApplication->createController(user)
+#1 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#2 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected '=', expecting ')'
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 294
+excepCode: 0
+excepTime: 2019-08-14 15:06:55
+#0 IWEB_PATH/lib/core/webapplication_class.php(74): IWebApplication->createController(user)
+#1 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#2 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected '=', expecting ')'
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 296
+excepCode: 0
+excepTime: 2019-08-14 15:07:09
+#0 IWEB_PATH/lib/core/webapplication_class.php(74): IWebApplication->createController(user)
+#1 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#2 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected 'echo' (T_ECHO), expecting '('
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 295
+excepCode: 0
+excepTime: 2019-08-14 15:10:21
+#0 IWEB_PATH/lib/core/webapplication_class.php(74): IWebApplication->createController(user)
+#1 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#2 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on null
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\simple.php
+excepLine: 1276
+excepCode: 0
+excepTime: 2019-08-14 16:03:08
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->bind_exists_user()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(bind_exists_user)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\simple.php
+excepLine: 1276
+excepCode: 0
+excepTime: 2019-08-14 16:03:33
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->bind_exists_user()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(bind_exists_user)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\simple.php
+excepLine: 1276
+excepCode: 0
+excepTime: 2019-08-14 16:03:53
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->bind_exists_user()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(bind_exists_user)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected '$k' (T_VARIABLE)
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\runtime\views\huawei\course\show.php
+excepLine: 29
+excepCode: 0
+excepTime: 2019-08-14 20:41:24
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/course/show.php)
+#1 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/course/show,)
+#2 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/course/show,)
+#3 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#4 IWEB_PATH/controllers/course.php(80): IController->redirect(show)
+#5 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#6 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#7 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#8 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-14 20:47:41
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

@@ -1,0 +1,84 @@
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 649
+errorCode: 8
+errorTime: 2019-08-08 07:32:06
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 649
+errorCode: 8
+errorTime: 2019-08-08 07:32:15
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: user
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 643
+errorCode: 8
+errorTime: 2019-08-08 07:48:38
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: smpt
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 645
+errorCode: 8
+errorTime: 2019-08-08 07:48:38
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: smpt
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 645
+errorCode: 8
+errorTime: 2019-08-08 07:48:55
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: smpt
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 651
+errorCode: 8
+errorTime: 2019-08-08 07:49:13
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

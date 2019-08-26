@@ -1,0 +1,955 @@
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:14:06
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:14:07
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:14:21
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:14:23
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:14:41
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:14:50
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:14:58
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:22
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:23
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:23
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:32
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:33
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:33
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:55
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:15:56
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:16:05
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:16:17
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:16:22
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:16:22
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:17:08
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:17:31
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:15
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:15
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:23
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:36
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:37
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:37
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:48
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:18:52
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to undefined method User::getId()
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\classes\plugin.php
+excepLine: 220
+excepCode: 0
+excepTime: 2019-08-13 09:19:05
+#0 IWEB_PATH/lib/core/interceptor_class.php(116): plugin::onCreateController()
+#1 IWEB_PATH/lib/core/webapplication_class.php(75): IInterceptor::trigger(onCreateController)
+#2 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#3 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/user.php
+errorLine: 13
+errorCode: 8
+errorTime: 2019-08-13 09:19:46
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:21:49
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 129
+errorCode: 8
+errorTime: 2019-08-13 09:23:58
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:29
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:29
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:30
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:31
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:31
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:40
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:41
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:41
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-13 09:25:41
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: reg
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 131
+errorCode: 8
+errorTime: 2019-08-13 09:25:58
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 46
+excepCode: 0
+excepTime: 2019-08-13 09:34:49
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetchAll() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 46
+excepCode: 0
+excepTime: 2019-08-13 09:35:20
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetchAll() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 52
+excepCode: 0
+excepTime: 2019-08-13 09:36:30
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetchAll() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 52
+excepCode: 0
+excepTime: 2019-08-13 09:36:32
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetchAll() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 53
+excepCode: 0
+excepTime: 2019-08-13 09:37:14
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:37:32
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:37:34
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:37:53
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:38:28
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:38:45
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:38:47
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:38:47
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:38:47
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:38:47
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:39:06
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 48
+excepCode: 0
+excepTime: 2019-08-13 09:39:09
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Use of undefined constant flase - assumed 'flase' (this will throw an Error in a future version of PHP)
+errorFile: IWEB_PATH/controllers/user.php
+errorLine: 52
+errorCode: 2
+errorTime: 2019-08-13 09:44:15
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Use of undefined constant flase - assumed 'flase' (this will throw an Error in a future version of PHP)
+errorFile: IWEB_PATH/controllers/user.php
+errorLine: 56
+errorCode: 2
+errorTime: 2019-08-13 09:46:15
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Use of undefined constant flase - assumed 'flase' (this will throw an Error in a future version of PHP)
+errorFile: IWEB_PATH/controllers/user.php
+errorLine: 74
+errorCode: 2
+errorTime: 2019-08-13 09:54:59
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login_act()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Use of undefined constant flase - assumed 'flase' (this will throw an Error in a future version of PHP)
+errorFile: IWEB_PATH/controllers/user.php
+errorLine: 74
+errorCode: 2
+errorTime: 2019-08-13 09:55:09
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login_act()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Use of undefined constant flase - assumed 'flase' (this will throw an Error in a future version of PHP)
+errorFile: IWEB_PATH/controllers/user.php
+errorLine: 74
+errorCode: 2
+errorTime: 2019-08-13 09:55:28
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->login_act()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected 'unction' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST)
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 54
+excepCode: 0
+excepTime: 2019-08-13 09:56:46
+#0 IWEB_PATH/lib/core/webapplication_class.php(74): IWebApplication->createController(user)
+#1 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#2 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-13 09:58:08
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-13 09:58:08
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-13 09:59:54
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-13 09:59:54
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-13 09:59:59
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-13 09:59:59
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$'
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 209
+excepCode: 0
+excepTime: 2019-08-13 20:29:28
+#0 IWEB_PATH/lib/core/webapplication_class.php(74): IWebApplication->createController(user)
+#1 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#2 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: Call to a member function fetch() on boolean
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 214
+excepCode: 0
+excepTime: 2019-08-13 20:36:47
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): User->find_password_mobile()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(find_password_mobile)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION)
+excepFile: D:\phpstudy\PHPTutorial\WWW\iWebShop5.5\controllers\user.php
+excepLine: 278
+excepCode: 0
+excepTime: 2019-08-13 21:13:42
+#0 IWEB_PATH/lib/core/webapplication_class.php(74): IWebApplication->createController(user)
+#1 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#2 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

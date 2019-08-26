@@ -1,0 +1,648 @@
+<ERROR_BLOCK>
+errorInfo: Undefined variable: COOKIE
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-12 19:51:26
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: COOKIE
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-12 19:51:34
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: COOKIE
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-12 19:51:40
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: COOKIE
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-12 19:51:43
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: COOKIE
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 86
+errorCode: 8
+errorTime: 2019-08-12 19:51:50
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->sendreg()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(sendreg)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: POST
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 72
+errorCode: 8
+errorTime: 2019-08-12 19:55:27
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: POST
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 72
+errorCode: 8
+errorTime: 2019-08-12 19:55:38
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: POST
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 72
+errorCode: 8
+errorTime: 2019-08-12 19:56:14
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: POST
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 72
+errorCode: 8
+errorTime: 2019-08-12 19:56:16
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: tel
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 75
+errorCode: 8
+errorTime: 2019-08-12 20:09:38
+#0 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->regTelInfo()
+#1 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#2 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(regTelInfo)
+#3 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#4 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: SELECT * FROM iwebshop_user as u,iwebshop_member as m WHERE (u.username = '15855373272' or m.email = '15855373272' or m.mobile='15855373272') and m.status = 1 and u.id = m.user_id limit 1
+ -- Unknown column 'u.username' in 'where clause'
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-12 20:13:06
+#0 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT * FROM iwebshop_user as u,iwebshop_member as m WHERE (u.username = '15855373272' or m.email = '15855373272' or m.mobile='15855373272') and m.status = 1 and u.id = m.user_id limit 1)
+#1 IWEB_PATH/lib/web/model/model_class.php(176): IModel->query((u.username = '15855373272' or m.email = '15855373272' or m.mobile='15855373272') and m.status = 1 and u.id = m.user_id,*,,1)
+#2 IWEB_PATH/plugins/_userInfo/_userInfo.php(380): IModel->getObj((u.username = '15855373272' or m.email = '15855373272' or m.mobile='15855373272') and m.status = 1 and u.id = m.user_id)
+#3 IWEB_PATH/plugins/_userInfo/_userInfo.php(26): _userInfo::isValidUser(15855373272,29afcda880ab8677fb3d64ddd8a467ba)
+#4 IWEB_PATH/classes/plugin.php(112): _userInfo->{closure}()
+#5 IWEB_PATH/plugins/_userInfo/_userInfo.php(131): plugin::trigger(isValidUser)
+#6 IWEB_PATH/classes/plugin.php(112): _userInfo->userLoginAct()
+#7 IWEB_PATH/controllers/simple.php(118): plugin::trigger(userLoginAct)
+#8 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->login_act()
+#9 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#10 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#11 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#12 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: SELECT * FROM iwebshop_user as u,iwebshop_member as m WHERE (u.username = '15855373271' or u.email = '15855373271' or u.mobile='15855373271') and m.status = 1 and u.id = m.user_id limit 1
+ -- Unknown column 'u.mobile' in 'where clause'
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-12 20:19:17
+#0 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT * FROM iwebshop_user as u,iwebshop_member as m WHERE (u.username = '15855373271' or u.email = '15855373271' or u.mobile='15855373271') and m.status = 1 and u.id = m.user_id limit 1)
+#1 IWEB_PATH/lib/web/model/model_class.php(176): IModel->query((u.username = '15855373271' or u.email = '15855373271' or u.mobile='15855373271') and m.status = 1 and u.id = m.user_id,*,,1)
+#2 IWEB_PATH/plugins/_userInfo/_userInfo.php(380): IModel->getObj((u.username = '15855373271' or u.email = '15855373271' or u.mobile='15855373271') and m.status = 1 and u.id = m.user_id)
+#3 IWEB_PATH/plugins/_userInfo/_userInfo.php(26): _userInfo::isValidUser(15855373271,29afcda880ab8677fb3d64ddd8a467ba)
+#4 IWEB_PATH/classes/plugin.php(112): _userInfo->{closure}()
+#5 IWEB_PATH/plugins/_userInfo/_userInfo.php(131): plugin::trigger(isValidUser)
+#6 IWEB_PATH/classes/plugin.php(112): _userInfo->userLoginAct()
+#7 IWEB_PATH/controllers/simple.php(118): plugin::trigger(userLoginAct)
+#8 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->login_act()
+#9 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#10 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#11 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#12 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP)
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 379
+errorCode: 2
+errorTime: 2019-08-12 20:20:13
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(26): _userInfo::isValidUser(15855373272,29afcda880ab8677fb3d64ddd8a467ba)
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->{closure}()
+#2 IWEB_PATH/plugins/_userInfo/_userInfo.php(131): plugin::trigger(isValidUser)
+#3 IWEB_PATH/classes/plugin.php(112): _userInfo->userLoginAct()
+#4 IWEB_PATH/controllers/simple.php(118): plugin::trigger(userLoginAct)
+#5 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->login_act()
+#6 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#7 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#8 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP)
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 379
+errorCode: 2
+errorTime: 2019-08-12 20:20:25
+#0 IWEB_PATH/plugins/_userInfo/_userInfo.php(26): _userInfo::isValidUser(15855373272,29afcda880ab8677fb3d64ddd8a467ba)
+#1 IWEB_PATH/classes/plugin.php(112): _userInfo->{closure}()
+#2 IWEB_PATH/plugins/_userInfo/_userInfo.php(131): plugin::trigger(isValidUser)
+#3 IWEB_PATH/classes/plugin.php(112): _userInfo->userLoginAct()
+#4 IWEB_PATH/controllers/simple.php(118): plugin::trigger(userLoginAct)
+#5 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->login_act()
+#6 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#7 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(login_act)
+#8 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-12 20:24:51
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-12 20:24:51
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-12 20:24:58
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-12 20:24:58
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-12 20:24:59
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-12 20:24:59
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-12 20:25:16
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-12 20:25:16
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: head_ico
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 248
+errorCode: 8
+errorTime: 2019-08-12 20:25:20
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: area
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 328
+errorCode: 8
+errorTime: 2019-08-12 20:25:20
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: head_ico
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 248
+errorCode: 8
+errorTime: 2019-08-12 20:25:43
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: area
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 328
+errorCode: 8
+errorTime: 2019-08-12 20:25:43
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: head_ico
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 248
+errorCode: 8
+errorTime: 2019-08-12 20:25:45
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: area
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 328
+errorCode: 8
+errorTime: 2019-08-12 20:25:45
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: head_ico
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 248
+errorCode: 8
+errorTime: 2019-08-12 20:26:06
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: area
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 328
+errorCode: 8
+errorTime: 2019-08-12 20:26:06
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: head_ico
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 248
+errorCode: 8
+errorTime: 2019-08-12 20:26:22
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: area
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 328
+errorCode: 8
+errorTime: 2019-08-12 20:26:22
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: head_ico
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 248
+errorCode: 8
+errorTime: 2019-08-12 20:26:25
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: area
+errorFile: IWEB_PATH/runtime/views/huawei/ucenter/info.php
+errorLine: 328
+errorCode: 8
+errorTime: 2019-08-12 20:26:25
+#0 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#1 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/info.php)
+#2 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/info,)
+#3 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/info,)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(370): IViewAction->run()
+#5 IWEB_PATH/controllers/ucenter.php(478): IController->redirect(info)
+#6 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->info()
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(info)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 168
+errorCode: 8
+errorTime: 2019-08-12 20:26:28
+#0 IWEB_PATH/classes/api.php(114): APIUcenter->getPropList()
+#1 IWEB_PATH/runtime/views/huawei/ucenter/redpacket.php(251): Api::run(getPropList)
+#2 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/redpacket.php)
+#3 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/redpacket.php)
+#4 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/redpacket,)
+#5 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/redpacket,)
+#6 IWEB_PATH/lib/web/controller/controller_class.php(119): IViewAction->run()
+#7 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(redpacket)
+#8 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-12 20:26:30
+#0 IWEB_PATH/classes/api/ucenter.php(140): Mess->__construct(8)
+#1 IWEB_PATH/classes/api.php(114): APIUcenter->getUcenterMessageList()
+#2 IWEB_PATH/runtime/views/huawei/ucenter/message.php(247): Api::run(getUcenterMessageList)
+#3 IWEB_PATH/lib/web/controller/controllerbase_class.php(116): require(IWEB_PATH/runtime/views/huawei/ucenter/message.php)
+#4 IWEB_PATH/lib/web/controller/controllerbase_class.php(82): IControllerBase->requireFile(IWEB_PATH/runtime/views/huawei/ucenter/message.php)
+#5 IWEB_PATH/lib/web/controller/controller_class.php(160): IControllerBase->renderView(IWEB_PATH/views/huawei/ucenter/message,)
+#6 IWEB_PATH/lib/web/action/view_action.php(35): IController->render(IWEB_PATH/views/huawei/ucenter/message,)
+#7 IWEB_PATH/lib/web/controller/controller_class.php(119): IViewAction->run()
+#8 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(message)
+#9 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#10 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: message_ids
+errorFile: IWEB_PATH/classes/mess.php
+errorLine: 56
+errorCode: 8
+errorTime: 2019-08-12 20:28:01
+#0 IWEB_PATH/controllers/ucenter.php(24): Mess->__construct(8)
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: prop
+errorFile: IWEB_PATH/classes/api/ucenter.php
+errorLine: 115
+errorCode: 8
+errorTime: 2019-08-12 20:28:01
+#0 IWEB_PATH/classes/api.php(98): APIUcenter->getPropTongJi()
+#1 IWEB_PATH/controllers/ucenter.php(28): Api::run(getPropTongJi)
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Ucenter->index()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: state
+errorFile: IWEB_PATH/controllers/Connect2.1/API/class/Oauth.class.php
+errorLine: 57
+errorCode: 8
+errorTime: 2019-08-12 21:25:10
+#0 IWEB_PATH/controllers/simple.php(222): Oauth->qq_callback()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->abc()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(abc)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: require_once(Connect2.1/API/qqConnectAPI.php): failed to open stream: No such file or directory
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 220
+errorCode: 2
+errorTime: 2019-08-12 21:40:03
+#0 IWEB_PATH/controllers/simple.php(220): require_once
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): Simple->abc()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(abc)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

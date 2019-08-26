@@ -1,0 +1,128 @@
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:03:05
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:03:11
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:03:13
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:03:16
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:03:26
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:03:29
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:03:30
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     
+ -- You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+excepFile: IWEB_PATH/lib/db/db_class.php
+excepLine: 148
+excepCode: 1000
+excepTime: 2019-08-20 21:05:17
+#0 IWEB_PATH/lib/core/query_class.php(213): IDB->query(select count(a.id) as count,cate_id,parent_id from iwebshop_imooc_course as a join iwebshop_imooc_category  as b on a.cate_id = b.id where  1=1  and parent_id = all     )
+#1 IWEB_PATH/controllers/course.php(46): IQuery->find()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): Course->show()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(show)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

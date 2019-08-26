@@ -1,0 +1,862 @@
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:25
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): Error while reading greeting packet. PID=14600
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:25
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): (HY000/2006): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:25
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: MySQL server has gone away
+excepFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+excepLine: 32
+excepCode: 1000
+excepTime: 2019-08-07 15:26:25
+#0 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#1 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#2 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#3 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#4 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#5 : plugin::onCreateApp()
+#6 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#7 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#8 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:39
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): Error while reading greeting packet. PID=14600
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:39
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): (HY000/2006): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:39
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: MySQL server has gone away
+excepFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+excepLine: 32
+excepCode: 1000
+excepTime: 2019-08-07 15:26:39
+#0 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#1 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#2 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#3 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#4 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#5 : plugin::onCreateApp()
+#6 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#7 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#8 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): Error while reading greeting packet. PID=14600
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): (HY000/2006): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: MySQL server has gone away
+excepFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+excepLine: 32
+excepCode: 1000
+excepTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#1 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#2 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#3 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#4 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#5 : plugin::onCreateApp()
+#6 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#7 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#8 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): Error while reading greeting packet. PID=14600
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): (HY000/2006): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: MySQL server has gone away
+excepFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+excepLine: 32
+excepCode: 1000
+excepTime: 2019-08-07 15:26:40
+#0 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#1 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#2 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#3 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#4 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#5 : plugin::onCreateApp()
+#6 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#7 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#8 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:43
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): Error while reading greeting packet. PID=14600
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:43
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: mysqli::mysqli(): (HY000/2006): MySQL server has gone away
+errorFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+errorLine: 29
+errorCode: 2
+errorTime: 2019-08-07 15:26:43
+#0 IWEB_PATH/lib/db/driver/mysqli_class.php(29): mysqli->mysqli(127.0.0.1,root,root,iwebshop,3306)
+#1 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#2 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#3 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#4 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#5 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#6 : plugin::onCreateApp()
+#7 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#8 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#9 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: MySQL server has gone away
+excepFile: IWEB_PATH/lib/db/driver/mysqli_class.php
+excepLine: 32
+excepCode: 1000
+excepTime: 2019-08-07 15:26:43
+#0 IWEB_PATH/lib/db/db_class.php(59): IMysqli->connect()
+#1 IWEB_PATH/lib/db/db_class.php(144): IDB->rTarget()
+#2 IWEB_PATH/lib/web/model/model_class.php(247): IDB->query(SELECT class_name FROM iwebshop_plugin WHERE is_open = 1 ORDER BY sort asc limit 50000)
+#3 IWEB_PATH/classes/plugin.php(32): IModel->query(is_open = 1,class_name,sort asc)
+#4 IWEB_PATH/classes/plugin.php(216): plugin::init()
+#5 : plugin::onCreateApp()
+#6 IWEB_PATH/lib/core/interceptor_class.php(116): call_user_func_array()
+#7 IWEB_PATH/lib/core/application_class.php(93): IInterceptor::trigger(onCreateApp)
+#8 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:08:27
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:08:32
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:08:38
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:46
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:50
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:51
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:51
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:51
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:51
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:52
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:52
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:09:52
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:10:22
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:10:25
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:12:04
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:12:14
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:12:22
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:12:22
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:12:23
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:14:07
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:17:25
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: id
+errorFile: IWEB_PATH/controllers/ucenter.php
+errorLine: 629
+errorCode: 8
+errorTime: 2019-08-07 20:19:03
+#0 : Ucenter->inviteMail()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(inviteMail)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:28:58
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:30:03
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:31:10
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:31:11
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:31:12
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:31:19
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:32:15
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 100
+errorCode: 8
+errorTime: 2019-08-07 20:32:24
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 102
+errorCode: 8
+errorTime: 2019-08-07 20:33:28
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 102
+errorCode: 8
+errorTime: 2019-08-07 20:33:29
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 102
+errorCode: 8
+errorTime: 2019-08-07 20:34:20
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 102
+errorCode: 8
+errorTime: 2019-08-07 20:35:01
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: userData
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 102
+errorCode: 8
+errorTime: 2019-08-07 20:35:07
+#0 : Simple->reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: inbite
+errorFile: IWEB_PATH/plugins/_userInfo/_userInfo.php
+errorLine: 249
+errorCode: 8
+errorTime: 2019-08-07 20:42:19
+#0 : _userInfo->userRegAct()
+#1 IWEB_PATH/classes/plugin.php(112): call_user_func_array()
+#2 IWEB_PATH/controllers/simple.php(55): plugin::trigger(userRegAct)
+#3 : Simple->reg_act()
+#4 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#5 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#6 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(reg_act)
+#7 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#8 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

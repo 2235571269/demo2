@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<center>
+		<h1 style="color:red">确认订单</h1>
+		
+				<table>
+					<tr>
+						<th>所选课程</th>
+						<th>单价</th>
+						
+					</tr>
+					{foreach:items=$this->data key=$k item=$v}
+					<tr>
+						<td>{$v['name']}</td>
+						<td>{$v['price']}</td>
+					</tr>
+					{/foreach}
+				</table>
+			<h2>请选择支付方式</h2>
+			<div style="width:1400px;heigth:1200px">
+				<a href="{url:/course/pay}&pay_id=1"><img src="{webroot:public/img/weixin.png}" style="witdh:100px;height:120px;" alt=""></a>
+				<a href="{url:/course/pay}&pay_id=2"><img src="{webroot:public/img/alipay.png}" style="witdh:100px;height:120px;" alt=""></a>
+				<a href="{url:/course/pay}&pay_id=3"><img src="{webroot:public/img/online.png}" style="witdh:100px;height:120px;" alt=""></a>
+			
+			</div>
+	</center>
+</body>
+</html>

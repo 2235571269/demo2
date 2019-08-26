@@ -1,0 +1,620 @@
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 27
+errorCode: 8
+errorTime: 2019-08-06 08:41:09
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(index)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: API of getAdd is called error , api is undefined
+excepFile: IWEB_PATH/classes/api.php
+excepLine: 225
+excepCode: 0
+excepTime: 2019-08-06 08:44:06
+#0 IWEB_PATH/classes/api.php(69): Api::error(getAdd,api is undefined)
+#1 IWEB_PATH/controllers/site.php(29): Api::run(getAdd)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: API of getAdd is called error , api is undefined
+excepFile: IWEB_PATH/classes/api.php
+excepLine: 225
+excepCode: 0
+excepTime: 2019-08-06 08:44:23
+#0 IWEB_PATH/classes/api.php(69): Api::error(getAdd,api is undefined)
+#1 IWEB_PATH/controllers/site.php(29): Api::run(getAdd)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: API of getAdd is called error , api is undefined
+excepFile: IWEB_PATH/classes/api.php
+excepLine: 222
+excepCode: 0
+excepTime: 2019-08-06 08:46:59
+#0 IWEB_PATH/classes/api.php(69): Api::error(getAdd,api is undefined)
+#1 IWEB_PATH/controllers/site.php(29): Api::run(getAdd)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: API of getAdd is called error , api is undefined
+excepFile: IWEB_PATH/classes/api.php
+excepLine: 222
+excepCode: 0
+excepTime: 2019-08-06 08:47:00
+#0 IWEB_PATH/classes/api.php(69): Api::error(getAdd,api is undefined)
+#1 IWEB_PATH/controllers/site.php(29): Api::run(getAdd)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: API of getAdd is called error , api is undefined
+excepFile: IWEB_PATH/classes/api.php
+excepLine: 222
+excepCode: 0
+excepTime: 2019-08-06 08:47:05
+#0 IWEB_PATH/classes/api.php(69): Api::error(getAdd,api is undefined)
+#1 IWEB_PATH/controllers/site.php(29): Api::run(getAdd)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: API of getAdd is called error , api is undefined
+excepFile: IWEB_PATH/classes/api.php
+excepLine: 222
+excepCode: 0
+excepTime: 2019-08-06 08:47:05
+#0 IWEB_PATH/classes/api.php(69): Api::error(getAdd,api is undefined)
+#1 IWEB_PATH/controllers/site.php(29): Api::run(getAdd)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+excepInfo: API of getAdd is called error , api is undefined
+excepFile: IWEB_PATH/classes/api.php
+excepLine: 222
+excepCode: 0
+excepTime: 2019-08-06 08:47:09
+#0 IWEB_PATH/classes/api.php(69): Api::error(getAdd,api is undefined)
+#1 IWEB_PATH/controllers/site.php(29): Api::run(getAdd)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: arr
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 31
+errorCode: 8
+errorTime: 2019-08-06 08:48:46
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: arr
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 31
+errorCode: 8
+errorTime: 2019-08-06 08:50:42
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_put_contents() expects at least 2 parameters, 1 given
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 12
+errorCode: 2
+errorTime: 2019-08-06 08:52:56
+#0 IWEB_PATH/classes/city.php(12): file_put_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_put_contents() expects at least 2 parameters, 1 given
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 12
+errorCode: 2
+errorTime: 2019-08-06 08:52:57
+#0 IWEB_PATH/classes/city.php(12): file_put_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_put_contents() expects at least 2 parameters, 1 given
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 08:53:45
+#0 IWEB_PATH/classes/city.php(13): file_put_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_put_contents() expects at least 2 parameters, 1 given
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 08:53:47
+#0 IWEB_PATH/classes/city.php(13): file_put_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! 
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 08:54:58
+#0 IWEB_PATH/classes/city.php(13): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Object of class stdClass could not be converted to string
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 15
+errorCode: 4096
+errorTime: 2019-08-06 08:55:06
+#0 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#1 : Site->index()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! 
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 08:55:53
+#0 IWEB_PATH/classes/city.php(13): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! 
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 08:56:12
+#0 IWEB_PATH/classes/city.php(13): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! 
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 08:57:32
+#0 IWEB_PATH/classes/city.php(13): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(29): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: SERVER
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 30
+errorCode: 8
+errorTime: 2019-08-06 09:00:43
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: REMOTE_HOST
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 30
+errorCode: 8
+errorTime: 2019-08-06 09:02:14
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 09:06:24
+#0 IWEB_PATH/classes/city.php(13): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(31): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=123.125.71.38): failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway
+
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 13
+errorCode: 2
+errorTime: 2019-08-06 09:06:34
+#0 IWEB_PATH/classes/city.php(13): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=123.125.71.38)
+#1 IWEB_PATH/controllers/site.php(31): City::getAdd(123.125.71.38)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Illegal string offset 'error'
+errorFile: IWEB_PATH/controllers/tools.php
+errorLine: 704
+errorCode: 2
+errorTime: 2019-08-06 09:11:40
+#0 : Tools->ad_edit_act()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(ad_edit_act)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Uninitialized string offset: 0
+errorFile: IWEB_PATH/controllers/tools.php
+errorLine: 704
+errorCode: 8
+errorTime: 2019-08-06 09:11:40
+#0 : Tools->ad_edit_act()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(ad_edit_act)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 31
+errorCode: 8
+errorTime: 2019-08-06 09:12:19
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 31
+errorCode: 8
+errorTime: 2019-08-06 09:12:25
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 31
+errorCode: 8
+errorTime: 2019-08-06 09:12:28
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined variable: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 31
+errorCode: 8
+errorTime: 2019-08-06 09:12:33
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-06 09:20:28
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-06 09:20:29
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! 
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 16
+errorCode: 2
+errorTime: 2019-08-06 09:20:53
+#0 IWEB_PATH/classes/city.php(16): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(31): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Illegal string offset 'error'
+errorFile: IWEB_PATH/controllers/tools.php
+errorLine: 704
+errorCode: 2
+errorTime: 2019-08-06 09:22:31
+#0 : Tools->ad_edit_act()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(ad_edit_act)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Uninitialized string offset: 0
+errorFile: IWEB_PATH/controllers/tools.php
+errorLine: 704
+errorCode: 8
+errorTime: 2019-08-06 09:22:31
+#0 : Tools->ad_edit_act()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(ad_edit_act)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 16
+errorCode: 2
+errorTime: 2019-08-06 09:23:20
+#0 IWEB_PATH/classes/city.php(16): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(32): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116): failed to open stream: HTTP request failed! 
+errorFile: IWEB_PATH/classes/city.php
+errorLine: 16
+errorCode: 2
+errorTime: 2019-08-06 10:55:30
+#0 IWEB_PATH/classes/city.php(16): file_get_contents(http://ip.taobao.com/service/getIpInfo.php?ip=114.95.180.116)
+#1 IWEB_PATH/controllers/site.php(31): City::getAdd(114.95.180.116)
+#2 : Site->index()
+#3 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#4 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#5 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#6 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#7 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: ip
+errorFile: IWEB_PATH/controllers/site.php
+errorLine: 29
+errorCode: 8
+errorTime: 2019-08-06 15:01:43
+#0 : Site->index()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run()
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: result
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 1234
+errorCode: 8
+errorTime: 2019-08-06 15:08:45
+#0 : Simple->seller_reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(seller_reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: Undefined index: result
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 1235
+errorCode: 8
+errorTime: 2019-08-06 15:08:45
+#0 : Simple->seller_reg()
+#1 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#2 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#3 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(seller_reg)
+#4 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#5 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(api.map.baidu.com/geocoder/v3/?address=北京市海淀区建材路西城&amp;output=json&amp;ak=tsyGQXzhWIU4eYNkXyI47LjeK5Og5Vxf): failed to open stream: No such file or directory
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 1232
+errorCode: 2
+errorTime: 2019-08-06 15:38:31
+#0 IWEB_PATH/controllers/simple.php(1232): file_get_contents(api.map.baidu.com/geocoder/v3/?address=北京市海淀区建材路西城&output=json&ak=tsyGQXzhWIU4eYNkXyI47LjeK5Og5Vxf)
+#1 : Simple->seller_reg()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(seller_reg)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+
+<ERROR_BLOCK>
+errorInfo: file_get_contents(api.map.baidu.com/geocoder/v3/?address=北京市海淀区建材路西城&amp;output=json&amp;ak=tsyGQXzhWIU4eYNkXyI47LjeK5Og5Vxf): failed to open stream: No such file or directory
+errorFile: IWEB_PATH/controllers/simple.php
+errorLine: 1232
+errorCode: 2
+errorTime: 2019-08-06 15:38:48
+#0 IWEB_PATH/controllers/simple.php(1232): file_get_contents(api.map.baidu.com/geocoder/v3/?address=北京市海淀区建材路西城&output=json&ak=tsyGQXzhWIU4eYNkXyI47LjeK5Og5Vxf)
+#1 : Simple->seller_reg()
+#2 IWEB_PATH/lib/web/action/inline_action.php(38): call_user_func()
+#3 IWEB_PATH/lib/web/controller/controller_class.php(119): IInlineAction->run()
+#4 IWEB_PATH/lib/core/webapplication_class.php(76): IController->run(seller_reg)
+#5 IWEB_PATH/lib/core/application_class.php(94): IWebApplication->execRequest()
+#6 IWEB_PATH/index.php(5): IApplication->run()
+</ERROR_BLOCK>
+

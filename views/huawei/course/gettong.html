@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	{foreach:items=$test key=$key item=$value}
+	{$key}<br />
+	{$value['title']}<br />
+	{set:$wuliao=JSON::decode($value['wuliao'])}<br />
+	{$item['wuliao']}
+	{foreach:items=$wuliao key=$wuliiaoid item=$wuliaoshuliang}
+	"物料id是："{$wuliiaoid}<br />
+	{query:name=goods where=id eq $wuliiaoid}
+	{set:$brand_id=$item['brand_id']}
+
+	"商品名称是："{$item['name']}<br />
+	"商品价格是："{$item['sell_price']}
+	{/query}
+	{query:name=brand where=id eq $brand_id}"商品品牌是"{$item['name']}{/query}<br /><br />
+	"商品数量是："{$wuliaoshuliang}<br />
+	{/foreach}
+	{/foreach}
+</body>
+</html>
